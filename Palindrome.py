@@ -1,3 +1,5 @@
+# CHECK FOR A PLAINDROME:
+
 
 def isPalindrome(s):
 	return s == s[::-1]
