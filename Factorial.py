@@ -1,4 +1,4 @@
-Factorial:
+# FACTORIAL:
 
 def func(x):
 	if(x==1):
