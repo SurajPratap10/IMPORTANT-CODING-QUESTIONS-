@@ -1,5 +1,5 @@
-// letters arr = ["c","f","g"]           -->   givenn array of letters
-// target = "c"
+// letters arr = ["c","f","g"]           -->   given array of letters
+// target = "c"                          -->   target element
 
 // CODE:
 
