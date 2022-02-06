@@ -41,4 +41,4 @@ public class floor {
     }
 
 
-ans: **2** [**returns the index of the target element that is being asked in the question**]
+ans: 2 [returns the index of the target element that is being asked in the question]
