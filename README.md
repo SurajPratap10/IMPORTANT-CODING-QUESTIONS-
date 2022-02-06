@@ -1,7 +1,5 @@
 # IMPORTANT-CODING-QUESTIONS:
-
-  <h3>⚠️ 🚨 this repository is now accepting contributors 🚨 ⚠️</h3>
-  <h1>🌟 star this repository if you found it helpful 🌟</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
