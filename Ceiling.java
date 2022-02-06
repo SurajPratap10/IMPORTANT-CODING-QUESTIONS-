@@ -4,7 +4,7 @@
 // CODE:
 
 class Solution {
-    public char ceiling(char[] letters, char letters) {
+    public char ceiling(char[] letters, char target) {
         int start = 0;
         int end = letters.length - 1;
         while (start <= end) {
