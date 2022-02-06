@@ -9,8 +9,8 @@
 
 Hey folks welcome to this repository created by me. I am a freshemen of ECE branch.
 Feel free to contribute here with any kind of suggestions, questions or trick you have as it will help the new folks who are coming to this coding and open source world immensely.
-This will help other students who know coding also as you can revise all the codes and stuff through this repository with th ehelp of Github android version available on the playstore.
-So we can conclude that all these things will fir in our pockets and we can revise this wherever and whenver we want,So your contribution is highly appreciated.
+This will help other students who know coding also as you can revise all the codes and stuff through this repository with the help of Github android/ios version on your respective phones.
+So we can say that all these things will fit in your pockets and you can revise this wherever and whenver we want,So your contribution is highly appreciated.
 
 <hr>
 
